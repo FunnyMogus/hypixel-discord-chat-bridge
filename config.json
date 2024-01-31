@@ -4,17 +4,17 @@
     "port": 25565
   },
   "minecraft": {
-    "username": "yourUsername",
+    "username": "gilded",
     "password": "yourPassword",
     "lobbyHolder": "ignUsername",
-    "accountType": "mojang"
+    "accountType": "microsoft"
   },
   "discord": {
-    "token": "discordBotToken",
-    "channel": "channelId",
-    "commandRole": "roleId",
-    "ownerId": "ownerId",
-    "prefix": "!",
+    "token": "MTA5NDgzNTQ5Nzc2NDkyMTM4Ng.GNrJxB.40D75_uUTnvMoqBtZPDnOJ9IkrlLgKuWu5qDiw",
+    "channel": "1085743920140537866",
+    "commandRole": "1016113685334327318",
+    "ownerId": "429017633539489793",
+    "prefix": "b!",
     "messageMode": "bot"
   },
   "express": {
